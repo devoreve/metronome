@@ -1,6 +1,6 @@
 # metronome
 
-A little library to build easily web oriented object applications. This project's aim is not to create an alternative but to show how works a OOP framework in PHP. It also show some popular design patterns like singleton or factory.
+A little library to build easily web oriented object applications. This project's aim is not to create an alternative but to show how works a OOP framework in PHP. It also shows some popular design patterns like singleton or factory.
 
 ## So do no use it, understand it !
 
